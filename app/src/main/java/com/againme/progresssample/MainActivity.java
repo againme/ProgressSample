@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        String aaa = "";
 
         // 버튼 객체 설정
         mBtnProgressDlg = (Button) findViewById(R.id.btnProgressDialog);
